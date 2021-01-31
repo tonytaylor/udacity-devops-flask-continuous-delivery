@@ -4,13 +4,12 @@
 
 Flask Machine Learning application
 
-Performs a prediction on Boston housing data (model pre-rendered as joblib).
+Performs predictions on Boston housing data (model pre-rendered as joblib).
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+[Project Plan](https://docs.google.com/spreadsheets/d/1TjRj4QOLCi08HI8-K_anfNf4WjaINq4_zGtK2z0jV-0/edit?usp=sharing)
+[Project Board](https://trello.com/b/TVBzU1xI/udacity-devops-flask-ml)
 
 ## Instructions
 
